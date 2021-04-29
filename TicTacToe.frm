@@ -198,6 +198,15 @@ Private Sub UserForm_Initialize()
     titleLabel.Font.Size = 30
     gameStatus.Font.Size = 20
     isPlayer1 = True
+    button00.Font.Size = 30
+    button01.Font.Size = 30
+    button02.Font.Size = 30
+    button10.Font.Size = 30
+    button11.Font.Size = 30
+    button12.Font.Size = 30
+    button20.Font.Size = 30
+    button21.Font.Size = 30
+    button22.Font.Size = 30
 End Sub
 
 Private Sub isGameOver()
